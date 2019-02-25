@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="simple_suite">
+
+    <test name="testelements">
+        <parameter name="browser"  value="chrome" />
+        <parameter name="browser"  value="firefox" />
+        <classes>
+            <class name="HomePage.ElementsInHomePage"/>
+        </classes>
+    </test>
+  

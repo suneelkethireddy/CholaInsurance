@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="main/resources/" kind="src" output="target/classes" path="src"/>
+	<classpathentry kind="src" path="src/main/resources">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/All war files/selenium-firefox-driver-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/All war files/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/All war files/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="D:/All war files/selenium-remote-driver-2.4.0.jar/selenium-remote-driver-2.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/All war files/ALL Zip files/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="D:/All war files/ALL Zip files/IEDriverServer_Win32_3.8.0.zip"/>
+	<classpathentry kind="lib" path="D:/All war files/ALL Zip files/IEDriverServer_x64_3.8.0.zip"/>
+	<classpathentry kind="lib" path="F:/selenium-chrome-driver-2.0a4.jar/selenium-chrome-driver-2.0a4.jar"/>
+	<classpathentry kind="lib" path="F:/selenium-java-2.20.0-sources.jar/selenium-java-2.20.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/bson-3.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/bson-3.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/bson-3.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="F:/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/javax.mail-1.5.6.jar"/>
+	<classpathentry kind="lib" path="F:/javax.mail-api-1.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/log4j.jar"/>
+	<classpathentry kind="lib" path="F:/ooxml-schemas-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="F:/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="F:/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/selenium-remote-client-2.0a5.jar/selenium-remote-client-2.0a5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/RestAssured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/groovy-2.4.6.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/groovy-json-2.4.6.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/groovy-xml-2.4.6.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/json-path-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/rest-assured-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/rest-assured-common-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/RestAssured/xml-path-3.0.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
